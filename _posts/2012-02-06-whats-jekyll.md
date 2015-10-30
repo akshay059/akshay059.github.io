@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What's Jekyll?
+title: What's Testing?
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+[Testing](http://jekyllrb.com) is a process, which ensures things do and do only what they are designed to do. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+  > This is a software testing blog, we will be publishing a lot of very precise articles that explain everything related to Software testing.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+We hope that it will be helpful for everyone and if you find any issues don't hesitate to contact us..
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+Find out more by [visiting the project on GitHub](https://github.com/akshay059).
